@@ -74,3 +74,5 @@
 [![](https://visitcount.itsvg.in/api?id=Sabeerwaqas&icon=0&clior=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![An image of @sabeerwaqas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sabeerwaqas)](https://holopin.io/@sabeerwaqas)
