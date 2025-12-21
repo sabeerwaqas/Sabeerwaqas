@@ -1,79 +1,38 @@
-![SB-blog-5-research-stats_112420-550x300](https://github.com/Sabeerwaqas/Sabeerwaqas/assets/71982222/9f52b9e5-467b-4d38-9ad5-2e0a27354305)
+## 👋 About Me
 
-# 💫 About Me:
-<p>
-👋 Hello there, I'm Sabeer Waqas!<br><br>💻 As a React JS developer, I'm passionate about crafting elegant web solutions. Currently pursuing my BSCS at the Virtual University of Pakistan, I'm on a journey to expand my knowledge and skills.<br><br>🚀 My tech skills include the following:
-</p>
-<ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>JavaScript</li>
-  <li>React JS</li>
-  <li>TypeScript (Basics)</li>
-  <li>Automation Testing Using <b>Cypress</b></li>
-  <li>MUI</li>
-  <li>Mantine UI</li>
-  <li>BootStrap</li>
-</ul>
+💻 **Software Engineer & BSCS Student**  
+🎓 Virtual University of Pakistan  
 
-<p>
-  Throughout the learning process, I explored several npm packages that marked valuable impact on my skills horizon. Some of them are listed below:
-</p>
-<ul>
-  <li>
-    React-Helmet
-    <ul>
-      <li>This package helped me to show dynamic page titles. Using this package, I showed different page titles for every React app page in one of those projects I worked on.</li>
-    </ul>
-  </li>
-  <li>
-    React-PDF
-    <ul>
-      <li>By using this package, I made a PDF document to show dynamic data.</li>
-    </ul>
-  </li>
-  <li>
-    React-Router-Dom
-    <li>
-      <ul>
-        <li>This npm package allowed me to navigate between different pages in React app.</li>
-      </ul>
-    </li>
-  </li>
-</ul>
-
-<p>
-  I am also willing to learn and practice DSA and problem solving using JavaScript to get a strong grasp over JavaScript. I am also maintaining a github repo to maintain a record of the resources I am use to learn DSA in JavaScript. You may visit that repo by <a href="https://github.com/Sabeerwaqas/JavaScript-DSA">Click Here</a>
-</p>
-
-<div>
-  Apart from programming, I am also engaged as an author on ResearchGate. Click on the below image to visit my ResearchGate profile.
-</div>
-<br/>
-<br/>
-<div>
-  <a href="https://www.researchgate.net/profile/Sabeer-Waqas"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5aWi5scuqPKXbP1_vnU18QRqfSvlb4wyqmz2TNMMLq5od23UEuZFTbZI48y44sFR6xA&usqp=CAU"/></a>
-</div>
-
+🔹 Passionate about modern IT technologies  
+🔹 Actively improving skills in **frontend & backend development**  
+🔹 Focused on **continuous learning** and **real-world problem solving**
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoClior=white)](https://facebook.com/https://www.facebook.com/sabeerwaqas050) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoClior=white)](https://instagram.com/https://www.instagram.com/sabeerwaqas/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoClior=white)](https://linkedin.com/in/https://www.linkedin.com/in/sabeerwaqas) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sabeerwaqas) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sabeerwaqas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sabeerwaqas050@gmail.com) 
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoClior=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoClior=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoClior=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoClior=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoClior=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoClior=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoClior=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoClior=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoClior=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoClior=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoClior=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoClior=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoClior=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoClior=%23F7DF1E) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoClior=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sabeerwaqas&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sabeerwaqas&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabeerwaqas&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sabeerwaqas&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sabeerwaqas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sabeerwaqas&theme=dark&hide_border=false)<br/>
+[![](https://visitcount.itsvg.in/api?id=sabeerwaqas&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sabeerwaqas&limit=5&theme=algliia&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=sabeerwaqas&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Sabeerwaqas&icon=0&clior=0)](https://visitcount.itsvg.in)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sabeerwaqas&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### Holopin Profile Badges
 
 [![An image of @sabeerwaqas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sabeerwaqas)](https://holopin.io/@sabeerwaqas)
 
